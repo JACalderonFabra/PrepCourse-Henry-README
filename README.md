@@ -1,2 +1,1 @@
-# PrepCourse-Henry-README
-Este es un repositorio de prueba del modulo 2 de Henry, con README
+My name is Julian and this project is a probe to how to clone a repository from github
